@@ -1,0 +1,1 @@
+body.page-Main_Page.action-view h1.firstHeading,body.page-Main_Page.action-submit h1.firstHeading{display:none}.mw-headline,.firstHeading,.mw-body h1,.mw-body h2{font-family:Sans-Serif}
